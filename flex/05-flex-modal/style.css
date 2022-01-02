@@ -102,3 +102,7 @@ button.cancel {
 .close-button {
   margin-left: auto;
 }
+
+.icon {
+  flex-shrink: 0;
+}
