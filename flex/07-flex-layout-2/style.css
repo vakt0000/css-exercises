@@ -35,6 +35,13 @@ body {
   justify-content: space-between;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 30px;
+  padding: 0 16px;
+  display: flex;
+}
+
 .middle-content {
   display: flex;
   flex-grow: 1;
@@ -54,14 +61,6 @@ body {
 
 .sidebar {
   flex-shrink: 0;
-}
-
-.header {
-  font-weight: bold;
-  font-size: 30px;
-  padding: 0 16px;
-  display: flex;
-  align-items: center;
 }
 
 a {
